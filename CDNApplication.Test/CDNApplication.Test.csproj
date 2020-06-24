@@ -17,4 +17,8 @@
     <ProjectReference Include="..\CDTS Blazor\CDNApplication.csproj" />
     <ProjectReference Include="..\Microsoft.AspNetCore.Components.Testing\Microsoft.AspNetCore.Components.Testing.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DummyData\" />
+  </ItemGroup>
 </Project>
